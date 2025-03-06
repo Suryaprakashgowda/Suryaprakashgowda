@@ -13,7 +13,8 @@ I love exploring the world of AI, solving complex problems, and constantly learn
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)  
-
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10217D?logo=scikitlearn&logoColor=white&style=flat)  
+![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-1DA1F2?logo=spacy&logoColor=white&style=flat)
 
 ### 🌱 Currently Learning  
 - 🤖 Advanced Machine Learning  
