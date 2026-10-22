@@ -2,7 +2,7 @@
 
 ### 🚀 Python Full Stack Developer | AI & ML Enthusiast | Problem Solver
 
-I'm currently pursuing **BTech in Artificial Intelligence & Machine Learning (2022–2026)**.  
+I'm completed **BTech in Artificial Intelligence & Machine Learning (2022–2026)**.  
 I enjoy building **scalable web applications, solving coding challenges, and developing intelligent systems using AI & Machine Learning.**
 
 I focus on **Python Full-Stack Development, Backend Systems, API Integration, and Data Structures & Algorithms** while continuously exploring modern technologies.
